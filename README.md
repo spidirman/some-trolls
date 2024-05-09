@@ -1,8 +1,4 @@
-**Repository README**
-
----
-
-## Rickroll & Gandalf Sax Scripts
+## Rickroll & Gandalf Sax troll Scripts
 
 ### Introduction
 
